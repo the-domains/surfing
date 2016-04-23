@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[surfing]]></title>
         <description><![CDATA[surfing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surfing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 06:22:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 06:23:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surfing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6577b21f-82c8-40f9-a763-e8be33987a6d.jpg">]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">b32f5682-812f-42af-9139-29f0ed465c51</guid>
+            <pubDate>Sat, 23 Apr 2016 06:23:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d3c5598-fa6d-443e-abd0-16dce894104d.jpg">]]></description>
