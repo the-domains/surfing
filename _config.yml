@@ -1,0 +1,14 @@
+layout_spectrum: 0.8627775863278657
+typography_spectrum: 0.6925887977704406
+color:
+  brandStrength: 0.47597887949086726
+  lightness: 0.8828931900206953
+  saturation: 0.615894122980535
+  rhythmicContrast: 0.7486697861459106
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: surfing
